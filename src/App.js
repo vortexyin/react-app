@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React As beginner
+          Learn React As beginner try reload again play again
         </a>
       </header>
     </div>
